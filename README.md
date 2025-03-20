@@ -10,5 +10,6 @@
 #### Numpy
 #### Seaborn
 #### Matplotlib
+#### Scikit-Learn
 
 ## Data Sourced from https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats
