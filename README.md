@@ -7,6 +7,7 @@
 ## Dependencies:
 
 ### Python
+#### Math
 #### Numpy
 #### Seaborn
 #### Matplotlib
