@@ -4,13 +4,18 @@
 
 ### Final Project for CIS 3715: Principles of Data Science
 
-## Dependencies:
+## Python Dependencies:
 
-### Python
-#### Math
-#### Numpy
-#### Seaborn
-#### Matplotlib
-#### Scikit-Learn
+### Math
+### Numpy
+### Seaborn
+### Matplotlib
+### Scikit-Learn
+
+## Sequential Running Order:
+### 1. EDA.ipynb
+### 2. linear_reg.ipynb
+### 3. t-SNE.ipynb
+### 4. SGD.ipynb
 
 ## Data Sourced from https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats
