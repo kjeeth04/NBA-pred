@@ -8,6 +8,7 @@
 
 ### Math
 ### Numpy
+### Pandas
 ### Seaborn
 ### Matplotlib
 ### Scikit-Learn
